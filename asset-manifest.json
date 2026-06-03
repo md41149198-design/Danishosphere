@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Danishosphere-new/static/css/main.e6c13ad2.css",
+    "main.js": "/Danishosphere-new/static/js/main.2baf6395.js",
+    "static/js/453.38a42b04.chunk.js": "/Danishosphere-new/static/js/453.38a42b04.chunk.js",
+    "index.html": "/Danishosphere-new/index.html",
+    "main.e6c13ad2.css.map": "/Danishosphere-new/static/css/main.e6c13ad2.css.map",
+    "main.2baf6395.js.map": "/Danishosphere-new/static/js/main.2baf6395.js.map",
+    "453.38a42b04.chunk.js.map": "/Danishosphere-new/static/js/453.38a42b04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2baf6395.js"
+  ]
+}
